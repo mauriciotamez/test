@@ -1,1 +1,1 @@
-const myName = 'name'
+const myName = 'nameDONE'
